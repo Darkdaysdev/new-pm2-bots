@@ -4,7 +4,7 @@
 
 ## :tada: Bilgilendirme;
 
-Discord'u Bıraktığım İçin Güncel En Son Geliştirdiğim Sistemleri Yakın Tarihte Burda Paylaşıcağım!
+Discord'u Bıraktığım İçin Güncel En Son Geliştirdiğim Sistemleri Yakın Tarihte Burda Paylaşıcağım. Adıma açılan asılsız hesaplara inanmayınız kendim salmış bulunmaktayım!
 
 ## :sparkles: Özellikler;
 
