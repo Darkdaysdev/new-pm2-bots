@@ -4,7 +4,9 @@
 
 ## :tada: Bilgilendirme;
 
-Discord'u Bıraktığım İçin Güncel En Son Geliştirdiğim Sistemleri Yakın Tarihte Burda Paylaşıcağım. Adıma açılan asılsız hesaplara inanmayınız kendim salmış bulunmaktayım!
+- Botlar Typescript İle Yazılmıştır Ve Bir Sunucu İçin Gereken Sistemlerden Fazlası Bulunmaktadır.
+
+- Discord'u Bıraktığım İçin Güncel En Son Geliştirdiğim Sistemleri Yakın Tarihte Burda Paylaşıcağım. Adıma Açılan Asılsız Hesaplara İnanmayınız Kendim Salmış Bulunmaktayım!
 
 ## :sparkles: Özellikler;
 
